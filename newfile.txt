@@ -1,0 +1,3 @@
+Add: adds your modified files to the queue
+Commit: commits the files that have been added
+Push: pushes your changes to the remote repository
